@@ -10,6 +10,11 @@
   ],
   "compilerOptions": {
     "noEmit": false,
-    "noEmitOnError": false
+    "noEmitOnError": false,
+    "skipLibCheck": true
+    {
+  }
+}
+
   }
 }
